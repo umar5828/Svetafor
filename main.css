@@ -42,3 +42,12 @@
     font-size: 20px;
     font-weight: 700;
 }
+.button:hover{
+border: 1px solid rgb(25, 182, 19);
+background-color: white;
+color: cornflowerblue;
+font-size: 20px;
+font-weight: bold;
+cursor: pointer;
+transition-duration: 2s;
+}
